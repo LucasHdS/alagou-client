@@ -1,7 +1,0 @@
-{
-  "name": "alagaBrasil",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
